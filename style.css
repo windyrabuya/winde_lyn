@@ -1,0 +1,18 @@
+body
+{
+	
+	  background-image: url(black.jpg);
+       background-size: 100% 100%;
+       background-attachment: fixed;
+	   background-repeat:no-repeat;}
+ 
+}
+ul
+{
+	align:right;
+}
+ul li
+{
+		display:inline-block;
+		padding:80px;
+}
